@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlN1P7e5fDM=",
+  "success": true,
+  "projectFilePath": "H:\\_Artikel - Github\\Tech-Specific\\C#\\DomainEvents\\With_MediatR\\With_MediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BenjaminWitt\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\BenjaminWitt\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BenjaminWitt\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\BenjaminWitt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
